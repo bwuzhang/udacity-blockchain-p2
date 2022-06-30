@@ -1,8 +1,12 @@
-# ND1309 C2 Ethereum Smart Contracts, Tokens and Dapps - Project Starter 
+# Udacity Blcokchain Project 2 
 **PROJECT: Decentralized Star Notary Service Project** - For this project, you will create a DApp by adding functionality with your smart contract and deploy it on the public testnet.
 
-### ToDo
-This Starter Code has already implemented the functionalities you implemented in the StarNotary (Version 2) exercise, and have comments in all the files you need to implement your tasks.
+### Requirements
+- Truffle v5.4.7
+- openzeppelin-solidity@2.3
+- Token name: Stars
+- Token Symbol: STA
+- Token Address (Rinkeby): 0x7991A36aa28E04A8f0B04d76aC1D902dFC1d3a58
 
 
 
